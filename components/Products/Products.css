@@ -18,6 +18,7 @@
 }
 .products-element__name {
     margin-bottom: auto;
+	 font-weight: bold;
 }
 .products-element__img {
     width: 100%;
